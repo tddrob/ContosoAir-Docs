@@ -1,0 +1,6 @@
+title: ContosoAir Docs
+theme: minima
+markdown: kramdown
+plugins:
+  - jekyll-feed
+baseurl: "/ContosoAir-Docs"
