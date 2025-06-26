@@ -3,4 +3,5 @@ theme: minima
 markdown: kramdown
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 baseurl: "/ContosoAir-Docs"
