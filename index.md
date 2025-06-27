@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Welcome
+description: "Welcome to ContosoAir Docs – your source for booking flights, pricing info, and travel help."
 ---
 
 # Welcome to ContosoAir Docs

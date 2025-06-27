@@ -5,3 +5,4 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
 baseurl: "/ContosoAir-Docs"
+description: "ContosoAir Docs offers helpful, easy-to-follow travel booking guides, pricing information, and support resources."
