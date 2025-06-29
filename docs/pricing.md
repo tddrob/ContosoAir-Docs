@@ -71,3 +71,138 @@ Refunds are processed according to our refund policy. Visit our Support Page for
 
 ### Do you offer price matching?
 We periodically review our fares to remain competitive, but do not offer price matching at this time.
+
+## ContosoMiles Loyalty Program Tiers
+
+### Blue Member (Entry Level)
+- Earn 1 point per mile flown
+- Access to member-only promotions
+- Priority waitlist status
+
+### Silver Member (25,000 miles/year)
+- Earn 1.5 points per mile flown
+- Complimentary seat selection
+- One free checked bag
+- Priority check-in
+
+### Gold Member (50,000 miles/year)
+- Earn 2 points per mile flown
+- Two free checked bags
+- Lounge access on international flights
+- Priority boarding
+- Free same-day flight changes
+
+### Platinum Member (100,000 miles/year)
+- Earn 3 points per mile flown
+- Three free checked bags
+- Unlimited lounge access
+- Guaranteed seat availability
+- Complimentary upgrades when available
+
+## Corporate Travel Program
+
+### Small Business Solutions
+- Discounted fares for registered businesses
+- Simplified booking management
+- Quarterly spending reports
+- Dedicated support line
+
+### Enterprise Partnerships
+- Volume-based discounts
+- Corporate rewards program
+- Direct billing options
+- Travel policy integration
+- Account management team
+
+## Seasonal Pricing Guide
+
+### Peak Season (June - August, December)
+- Higher base fares
+- Limited seat availability
+- Advance booking recommended
+- Special holiday packages
+
+### Shoulder Season (April - May, September - October)
+- Moderate pricing
+- Good availability
+- Weekend surcharges apply
+- Fall/Spring break packages
+
+### Off-Peak Season (January - March, November)
+- Lowest base fares
+- Best availability
+- Flexible booking options
+- Winter escape deals
+
+## Payment Options and Financing
+
+### Accepted Payment Methods
+- Major credit cards (Visa, MasterCard, American Express)
+- Digital wallets (Apple Pay, Google Pay)
+- PayPal
+- Bank transfers
+- Travel vouchers
+
+### Flexible Payment Plans
+- "Fly Now, Pay Later" options
+- 3, 6, or 12-month installment plans
+- 0% interest for qualified customers
+- Down payment requirements
+
+### Currency Options
+- Multi-currency pricing
+- Dynamic currency conversion
+- Corporate billing in preferred currency
+- Real-time exchange rates
+
+## Price Protection Guarantee
+
+### 24-Hour Free Cancellation
+- Full refund within 24 hours of booking
+- No questions asked
+- Applies to all fare classes
+- Instant refund to original payment method
+
+### Best Price Guarantee Terms
+- Price monitoring for 48 hours after booking
+- Automatic credit if price drops
+- Applicable to identical itineraries
+- Terms and conditions apply
+
+## Special Event and Group Rates
+
+### Wedding Groups
+- Special rates for 15+ passengers
+- Complimentary seat assignments
+- Flexible booking terms
+- Dedicated event coordinator
+
+### Sports Teams
+- Equipment handling included
+- Team seating arrangements
+- Flexible payment options
+- Group check-in service
+
+### Corporate Events
+- Convention special rates
+- Meeting planning assistance
+- Ground transportation coordination
+- Bulk ticket management
+
+## Additional Services Pricing
+
+### Airport Services
+| Service | Economy | Premium | Business/First |
+|---------|---------|---------|----------------|
+| Fast Track Security | $15 | $10 | Included |
+| Lounge Access | $45 | $30 | Included |
+| Meet & Assist | $50 | $35 | Included |
+
+### In-Flight Enhancements
+| Service | Short-haul | Medium-haul | Long-haul |
+|---------|------------|-------------|------------|
+| Premium Meals | $25 | $35 | $45 |
+| Wi-Fi Pass | $8/hour | $18/flight | $25/flight |
+| Extra Legroom | $30 | $45 | $60 |
+
+*All prices in USD and subject to change without notice.*
